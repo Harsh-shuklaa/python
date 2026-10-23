@@ -28,3 +28,10 @@ snake_case ====> harsh_shukla    (python prefer this  )
 
 """
 
+
+
+# Using python as a calculator 
+"""   type python in the terminal and
+then terminal will open a repl
+repl = Read Evaluation print loop.
+ """
